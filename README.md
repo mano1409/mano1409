@@ -1,111 +1,135 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Manogna Tammisetti</h1>
+<h3 align="center">Machine Learning Engineer | NLP • GenAI • MLOps • Data Science</h3>
 
-👋 Hi, I'm **Manogna** — a **Machine Learning Engineer** passionate about building intelligent systems that transform data into meaningful insights and real-world impact. I enjoy solving complex problems using Machine Learning, NLP, LLMs, and cloud technologies.<br><br>
-
-💻 With a strong foundation in **Python, Machine Learning, Data Science, and Cloud Platforms like AWS**, I have experience developing scalable ML pipelines, analytics solutions, and cloud-native applications that drive informed decision-making.<br><br>
-
-🚀 I’m particularly interested in leveraging AI and data-driven technologies to create innovative solutions that improve efficiency, automate processes, and deliver measurable business value. From building NLP classifiers and time-series forecasting systems to deploying machine learning workflows, I enjoy turning ideas into impactful solutions.<br><br>
-
-🧠 My expertise spans **NLP, Generative AI, RAG pipelines, LLM fine-tuning, annotation systems, forecasting models, and MLOps**. I enjoy working on challenging problems involving data quality, model explainability, and scalable AI systems.<br><br>
-
-🎓 I am currently pursuing a **Master’s degree in Data Science at the University at Buffalo**, building on my background in Electronics & Communication Engineering and continuously exploring emerging AI technologies.<br><br>
-
-🤝 I believe that great innovation happens through collaboration, curiosity, and continuous growth. I'm excited to connect with fellow professionals, contribute to impactful projects, and help shape the future of AI.<br><br>
-
-📫 Let’s connect and build intelligent solutions that make a difference!
+<p align="center">
+  <a href="https://github.com/mano1409">
+    <img src="https://komarev.com/ghpvc/?username=mano1409&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials:
+# 💫 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manogna-tammisetti-1036661b8/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mano1409)
+👋 Hi, I'm **Manogna** — a passionate **Machine Learning Engineer** dedicated to building intelligent systems that transform data into actionable insights and real-world impact.
+
+💡 I specialize in **Machine Learning, NLP, Generative AI, and MLOps**, with experience designing scalable ML pipelines, cloud-native applications, and data-driven solutions.
+
+🚀 My interests include:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- NLP & Text Analytics
+- Time-Series Forecasting
+- MLOps & Experiment Tracking
+- Cloud AI Solutions
+
+🎓 Currently pursuing my **M.S. in Data Science** at the **University at Buffalo**.
+
+🌱 Always learning and exploring emerging AI technologies to build innovative solutions that create measurable business value.
+
+🤝 I believe innovation happens through collaboration, curiosity, and continuous learning.
+
+📫 **Let's connect and build intelligent systems together!**
 
 ---
 
-# 💻 Tech Stack:
+## 🌐 Connect With Me
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="left">
+<a href="https://www.linkedin.com/in/manogna-tammisetti-1036661b8/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/mano1409" target="blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:manogna.tammisetti@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Machine Learning & AI
+### AI / Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-7B68EE?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
-### Data Engineering & Analytics
+### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### Databases
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
-# 🚀 Featured Projects:
+# 🚀 Featured Projects
 
 ### 🚕 NYC Taxi Demand Forecasting
-- Built forecasting system using **LightGBM + Fourier Features**.
-- Created **AWS Lambda** deployment pipelines with **Athena** and **Power BI** integration.
-- Implemented anomaly detection and automated feedback loops for mislabeled data.
+- Built forecasting pipelines using **LightGBM + Fourier Features**
+- Implemented anomaly detection and data validation workflows
+- Deployed AWS Lambda-based solutions with Athena and Power BI
 
 ### 🚲 Citi Bike Demand Prediction Engine
-- Developed geo-temporal demand prediction using clustering techniques.
-- Integrated **MLflow** for experiment tracking and reproducibility.
-- Built retraining pipelines using data drift signals.
+- Developed geo-temporal forecasting models
+- Integrated **MLflow** for experiment tracking
+- Designed retraining pipelines using data drift signals
 
 ### 📈 RL-based Crypto Trading Bot
-- Developed Q-Learning agents for trading strategies.
-- Built fraud and anomaly detection pipelines.
-- Reduced manual labeling effort through automated tagging frameworks.
+- Built Q-learning based trading strategies
+- Developed anomaly detection pipelines
+- Reduced manual labeling using automated frameworks
 
 ---
 
-# 📜 Certifications:
+# 📊 GitHub Analytics
 
-🏅 NLP with Transformers – Hugging Face  
-🏅 GenAI with LangChain – DataCamp  
-🏅 SQL for Data Science – Coursera  
-🏅 AI & ML Bootcamp – Udemy  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mano1409&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano1409&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mano1409&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mano1409&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mano1409&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mano1409&theme=tokyonight" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mano1409&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mano1409&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✍️ Random Dev Quote
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+  <i>“Turning data into intelligence, and intelligence into impact.”</i>
+</p>
