@@ -1,53 +1,53 @@
-<h1 align="center">Hi 👋, I'm Manogna Tammisetti</h1>
-<h3 align="center">Machine Learning Engineer | NLP • GenAI • MLOps • Data Science</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/mano1409">
-    <img src="https://komarev.com/ghpvc/?username=mano1409&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Manogna!" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=header" width="100%"/>
+
+### Connect with me!
+
+<p>
+  <a href="https://www.linkedin.com/in/manogna05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/mano1409">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:manogna.tammisetti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" width="100%"/>
 ---
 
 # 💫 About Me
 
-👋 Hi, I'm **Manogna** — a passionate **Machine Learning Engineer** dedicated to building intelligent systems that transform data into actionable insights and real-world impact.
+👋 Hi, I'm **Manogna** — an **AI/ML Engineer** passionate about building intelligent systems that transform data into meaningful insights and real-world impact.
 
-💡 I specialize in **Machine Learning, NLP, Generative AI, and MLOps**, with experience designing scalable ML pipelines, cloud-native applications, and data-driven solutions.
+💡 With a strong foundation in **Artificial Intelligence, Machine Learning, Generative AI, and MLOps**, I enjoy designing and deploying scalable AI solutions that solve real-world challenges and drive business value.
 
-🚀 My interests include:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- NLP & Text Analytics
-- Time-Series Forecasting
-- MLOps & Experiment Tracking
-- Cloud AI Solutions
+🚀 My interests span across:
 
-🎓 Currently pursuing my **M.S. in Data Science** at the **University at Buffalo**.
+* Large Language Models (LLMs)
+* Agentic AI & Retrieval-Augmented Generation (RAG)
+* Natural Language Processing (NLP)
+* Time-Series Forecasting
+* MLOps & Experiment Tracking
+* Cloud AI Solutions on AWS
 
-🌱 Always learning and exploring emerging AI technologies to build innovative solutions that create measurable business value.
+🎓 I hold a **Master’s degree in Data Science from the University at Buffalo**, where I deepened my expertise in machine learning, data analytics, and AI-driven systems.
 
-🤝 I believe innovation happens through collaboration, curiosity, and continuous learning.
+🌱 I'm constantly exploring emerging technologies and pushing the boundaries of AI to build innovative, reliable, and impactful solutions.
 
-📫 **Let's connect and build intelligent systems together!**
+🤝 I believe that great innovation comes from collaboration, curiosity, and continuous learning. I'm always excited to connect with fellow engineers, contribute to meaningful projects, and shape the future of AI.
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/manogna-tammisetti-1036661b8/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/mano1409" target="blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:manogna.tammisetti@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+📫 **Let's connect and build intelligent solutions that make a difference!**
 
 ---
 
@@ -82,26 +82,7 @@
 ### Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
----
-
-# 🚀 Featured Projects
-
-### 🚕 NYC Taxi Demand Forecasting
-- Built forecasting pipelines using **LightGBM + Fourier Features**
-- Implemented anomaly detection and data validation workflows
-- Deployed AWS Lambda-based solutions with Athena and Power BI
-
-### 🚲 Citi Bike Demand Prediction Engine
-- Developed geo-temporal forecasting models
-- Integrated **MLflow** for experiment tracking
-- Designed retraining pipelines using data drift signals
-
-### 📈 RL-based Crypto Trading Bot
-- Built Q-learning based trading strategies
-- Developed anomaly detection pipelines
-- Reduced manual labeling using automated frameworks
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge
 
 ---
 
@@ -115,18 +96,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mano1409&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mano1409&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
