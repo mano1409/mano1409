@@ -28,24 +28,11 @@
 
 # 💫 About Me
 
-👋 Hi, I'm **Manogna** — an **AI/ML Engineer** passionate about building intelligent systems that transform data into meaningful insights and real-world impact.
+👋 Hi, I'm Manogna — a Software Engineer with a passion for AI and Machine Learning. I enjoy building intelligent applications and using data to solve real-world problems that create meaningful impact.
 
-💡 With a strong foundation in **Artificial Intelligence, Machine Learning, Generative AI, and MLOps**, I enjoy designing and deploying scalable AI solutions that solve real-world challenges and drive business value.
+💡 I'm particularly interested in Generative AI, Large Language Models (LLMs), NLP, RAG systems, and cloud-based AI solutions. I love exploring new technologies and turning ideas into scalable, practical applications.
 
-🚀 My interests span across:
-
-* Large Language Models (LLMs)
-* Agentic AI & Retrieval-Augmented Generation (RAG)
-* Natural Language Processing (NLP)
-* Time-Series Forecasting
-* MLOps & Experiment Tracking
-* Cloud AI Solutions on AWS
-
-🎓 I hold a **Master’s degree in Data Science from the University at Buffalo**, where I deepened my expertise in machine learning, data analytics, and AI-driven systems.
-
-🌱 I'm constantly exploring emerging technologies and pushing the boundaries of AI to build innovative, reliable, and impactful solutions.
-
-🤝 I believe that great innovation comes from collaboration, curiosity, and continuous learning. I'm always excited to connect with fellow engineers, contribute to meaningful projects, and shape the future of AI.
+🎓 I hold a Master’s degree in Data Science from the University at Buffalo, and I'm always excited to learn, innovate, and contribute to projects that push the boundaries of AI.
 
 📫 **Let's connect and build intelligent solutions that make a difference!**
 
